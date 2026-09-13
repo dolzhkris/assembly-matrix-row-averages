@@ -1,0 +1,18 @@
+# Compiled files
+*.obj
+*.exe
+*.com
+*.bin
+
+# Debug / temporary files
+*.map
+*.lst
+*.tmp
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
