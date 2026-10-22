@@ -27,7 +27,7 @@ The program allows the user to enter the elements of the array and calculates th
 * calc_averages - calculates and stores the average values of all three rows.
 * sum_row - calculates the sum of three elements in the current row and divides the result by 3.
 * print_results - displays the calculated average values for all three rows.
-* print_number` - converts the numerical result to an output character and displays it using a DOS interrupt.
+* print_number - converts the numerical result to an output character and displays it using a DOS interrupt.
 
 ## How to Run
 
